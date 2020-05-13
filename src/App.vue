@@ -9,7 +9,7 @@
               <v-toolbar-title>
                 <div class="logo">
                   <a title="logo" href="/">
-                    <img src="..\src\assets\img\Star-Wars-Logo.png" alt="texto descriptivo" />
+                    <img src="@/assets/img/Star-Wars-Logo.png" alt="texto descriptivo" />
                   </a>
                 </div>
               </v-toolbar-title>
